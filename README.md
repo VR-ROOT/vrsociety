@@ -127,27 +127,6 @@ Use Google Cloud Console [Cloud Shell](https://console.cloud.google.com/cloudshe
 
 Or use free Ubuntu VPS [c9.io](https://c9.io/)
 
-## [Docker](https://en.wikipedia.org/wiki/Docker_(software)) Usage ![docker logo](https://png.icons8.com/color/50/000000/docker.png)
-
-### Dependecies
-
-[Docker](https://www.docker.com/)
-
-[Docker-compose](https://docs.docker.com/compose/install/)
-
-```bash
-docker-compose build
-docker-compose up -d
-docker-compose exec fsociety fsociety
-docker-compose down # destroys instance
-```
-
-# Screenshots
-
-[![asciicast](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz.png)](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz)
-
-![alt logo](https://media.giphy.com/media/xT0xeFxyHAKirrLa24/giphy.gif)
-
 # Contributors
 
 [alexcreek](https://github.com/alexcreek)
